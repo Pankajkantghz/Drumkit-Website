@@ -40,7 +40,7 @@ switch(key){
     audio.play();
     break;
     case "l":
-        var audio=new Audio("kick.mp3");
+        var audio=new Audio("kick-bass.mp3");
         audio.play();
         break;
         default:console.log(buttonInnerHTML);
